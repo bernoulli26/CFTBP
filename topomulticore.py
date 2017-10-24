@@ -76,7 +76,7 @@ def checkdimen(n):
     for i in rancore:
         procs[i].start()
         print('process %d start'%i)
-    #프로세스 할당
+    #process
     for i in rancore:
         procs[i].join()
         t += output.get()
