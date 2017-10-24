@@ -1,4 +1,3 @@
-# CFTBP
 Count finite topology by python
 ===
 It's a count finite topology which cardinal is n by python.
